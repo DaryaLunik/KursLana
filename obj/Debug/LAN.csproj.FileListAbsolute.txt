@@ -1,0 +1,20 @@
+C:\Users\kab-35-17\Desktop\LAN\bin\Debug\LAN.exe.config
+C:\Users\kab-35-17\Desktop\LAN\bin\Debug\LAN.exe
+C:\Users\kab-35-17\Desktop\LAN\bin\Debug\LAN.pdb
+C:\Users\kab-35-17\Desktop\LAN\obj\Debug\LAN.csproj.AssemblyReference.cache
+C:\Users\kab-35-17\Desktop\LAN\obj\Debug\LAN.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Desktop\LAN\obj\Debug\LAN.exe
+C:\Users\kab-35-17\Desktop\LAN\obj\Debug\LAN.pdb
+C:\Users\Kab-35-16\Desktop\LAN\bin\Debug\LAN.exe.config
+C:\Users\Kab-35-16\Desktop\LAN\bin\Debug\LAN.exe
+C:\Users\Kab-35-16\Desktop\LAN\bin\Debug\LAN.pdb
+C:\Users\Kab-35-16\Desktop\LAN\obj\Debug\LAN.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\Desktop\LAN\obj\Debug\LAN.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\Desktop\LAN\obj\Debug\LAN.exe
+C:\Users\Kab-35-16\Desktop\LAN\obj\Debug\LAN.pdb
+C:\Users\Hitech\OneDrive\Рабочий стол\LAN\bin\Debug\LAN.exe.config
+C:\Users\Hitech\OneDrive\Рабочий стол\LAN\bin\Debug\LAN.exe
+C:\Users\Hitech\OneDrive\Рабочий стол\LAN\obj\Debug\LAN.csproj.AssemblyReference.cache
+C:\Users\Hitech\OneDrive\Рабочий стол\LAN\obj\Debug\LAN.csproj.CoreCompileInputs.cache
+C:\Users\Hitech\OneDrive\Рабочий стол\LAN\obj\Debug\LAN.exe
+C:\Users\Hitech\OneDrive\Рабочий стол\LAN\obj\Debug\LAN.pdb
